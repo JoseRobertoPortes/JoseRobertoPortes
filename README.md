@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16A34A&center=true&width=435&lines=Olá!+Eu+sou+José+Roberto+🚀;Full+Stack+Developer;Python+%7C+JavaScript+Ent..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16A34A&center=true&width=435&lines=Olá!+Eu+sou+José+Roberto+🚀;Full+Stack+Developer;Python+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,8 +8,25 @@
 
 <br>
 
+## 📊 Estatísticas & Contribuições
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=16A34A&icon_color=16A34A" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseRobertoPortes&bg_color=0d1117&color=16A34A&line=16A34A&point=16A34A&area_color=0d1117&area=true&hide_border=true&custom_title=Gráfico%20de%20Atividades" alt="Contribution Graph" style="animation: slideInUp 1s ease-in-out;" />
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoseRobertoPortes&theme=transparent&hide_border=true&background=0d1117&currStreakNum=16A34A&sideNums=16A34A&currStreakLabel=16A34A&fire=16A34A&ring=16A34A" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -52,10 +69,6 @@ class Developer:
 
 <br>
 
-## 📈 Sequência de Contribuições
-
-<br>
-
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
@@ -88,3 +101,16 @@ class Developer:
 <p align="center">
   <i>⭐ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!</i>
 </p>
+
+<style>
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
