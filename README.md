@@ -7,7 +7,8 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoseRobertoPortes/JoseRobertoPortes/main/github-metrics.svg" />
+  <img height="180em" src="https://github-readme-stats-fastly.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fastly.vercel.app/api/top-langs/?username=JoseRobertoPortes&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br>
@@ -17,6 +18,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mysql,git,github,docker,linux,vscode" />
 </p>
+
+<br>
+
+## 📊 Sequência de contribuições
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JoseRobertoPortes&theme=radical&hide_border=true" />
+</div>
 
 <br>
 
