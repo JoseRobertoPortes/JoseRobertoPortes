@@ -98,6 +98,7 @@ class Developer:
 
   [![Instagram](https://img.shields.io/badge/Instagram-16A34A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Joserobertoportes)
   [![Gmail](https://img.shields.io/badge/Gmail-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portes.emailpessoal@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-16A34A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/471491922696077312)
 
 </div>
 
