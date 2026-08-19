@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16A34A&center=true&width=435&lines=Olá!+Eu+sou+José+Roberto+🚀;Full+Stack+Developer;Python+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16A34A&center=true&width=435&lines=Olá!+Eu+sou+José+Roberto;Full+Stack+Developer;Python+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <br>
 
-## 📊 Estatísticas & Contribuições
+## Estatísticas & Contribuições
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseRobertoPortes&bg_color=0d1117&color=16A34A&line=16A34A&point=16A34A&area_color=0d1117&area=true&hide_border=true&custom_title=Gráfico%20de%20Atividades" alt="Contribution Graph" style="animation: slideInUp 1s ease-in-out; margin-bottom: 20px;" />
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/JoseRobertoPortes">
-    <img height="280em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img height="280em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=16A34A&icon_color=16A34A&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/JoseRobertoPortes">
     <img height="280em" src="https://streak-stats.demolab.com?user=JoseRobertoPortes&theme=dark&hide_border=true&background=0d1117&ring=16A34A&fire=16A34A&currStreakNum=16A34A&sideNums=16A34A&currStreakLabel=16A34A&dates=16A34A" alt="GitHub Streak" />
@@ -27,19 +27,24 @@
 
 <br>
 
-## 🎯 Sobre mim
+## Sobre mim
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "José Roberto Portes"
-        self.learning = ["ADS (Análise e Desenvolvimento de Sistemas)", "Python (bancos de dados)", "Python (POO)", "Curso.dev - Clone do TabNews (JavaScript, React)"]
+        self.learning = [
+            "ADS (Análise e Desenvolvimento de Sistemas)",
+            "Python (bancos de dados)",
+            "Python (POO)",
+            "Curso.dev - Clone do TabNews",
+        ]
         self.passionate_about = ["Code", "Problem Solving", "Growth"]
 ```
 
 <br>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -65,7 +70,7 @@ class Developer:
 
 <br>
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
@@ -75,10 +80,10 @@ class Developer:
 
 <br>
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
-  
+
   [![Instagram](https://img.shields.io/badge/Instagram-16A34A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Joserobertoportes)
   [![Gmail](https://img.shields.io/badge/Gmail-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portes.emailpessoal@gmail.com)
 
@@ -95,7 +100,7 @@ class Developer:
 ---
 
 <p align="center">
-  <i>⭐ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!</i>
+  <i>Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!</i>
 </p>
 
 <style>
