@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-wpace.vercel.app/api/top-langs/?username=JoseRobertoPortes&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs" />
+  <img width="49%" src="https://github-readme-stats-wpace.vercel.app/api/top-langs/?username=JoseRobertoPortes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mysql,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mysql,git,github,docker,linux,vscode&theme=dark" />
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 ## 📊 Sequência de contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JoseRobertoPortes&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JoseRobertoPortes&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
