@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs" />
-  <img height="195" src="https://github-readme-stats-wpace.vercel.app/api/top-langs/?username=JoseRobertoPortes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&hide=issues,prs" />
+  <img height="180" src="https://github-readme-stats-wpace.vercel.app/api/top-langs/?username=JoseRobertoPortes&layout=compact&theme=dracula&hide_border=true&langs_count=6&card_width=320" />
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 ## 📊 Sequência de contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JoseRobertoPortes&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JoseRobertoPortes&theme=dracula&hide_border=true" />
 </div>
 
 <br>
