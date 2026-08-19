@@ -1,7 +1,7 @@
 <h1 align="center">👋</h1>
 
 <p align="center">
-  Desenvolvedor Python | Sempre aprendendo algo novo
+  Sempre fora da zona de conforto
 </p>
 
 <br>
