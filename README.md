@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://github.com/JoseRobertoPortes">
-    <img height="280em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=16A34A&icon_color=16A34A&text_color=c9d1d9" alt="GitHub Stats" />
+    <img height="280em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=16A34A&icon_color=16A34A&text_color=c9d1d9" alt="Stats" />
   </a>
   <a href="https://github.com/JoseRobertoPortes">
     <img height="280em" src="https://streak-stats.demolab.com?user=JoseRobertoPortes&theme=dark&hide_border=true&background=0d1117&ring=16A34A&fire=16A34A&currStreakNum=16A34A&sideNums=16A34A&currStreakLabel=16A34A&dates=16A34A" alt="GitHub Streak" />
