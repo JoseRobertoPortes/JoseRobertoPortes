@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,js,html,css,postgres,mysql,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,django,postgres,mysql,git,github,docker,vscode&theme=dark" />
 </p>
 
 <br>
