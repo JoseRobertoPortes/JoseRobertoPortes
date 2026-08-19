@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs" />
-  <img width="49%" src="https://github-readme-stats-wpace.vercel.app/api/top-langs/?username=JoseRobertoPortes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="195" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs" />
+  <img height="195" src="https://github-readme-stats-wpace.vercel.app/api/top-langs/?username=JoseRobertoPortes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br>
