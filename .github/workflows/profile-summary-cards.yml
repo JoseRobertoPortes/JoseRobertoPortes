@@ -1,21 +1,19 @@
-name: Generate Profile Summary Cards
+name: Generate Profile Metrics
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: JoseRobertoPortes
-          THEME: github_dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
+          filename: github-metrics.svg
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
