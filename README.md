@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o José Roberto 👋</h1>
+<h1 align="center">👋</h1>
 
 <p align="center">
   Desenvolvedor Python | Sempre aprendendo algo novo
