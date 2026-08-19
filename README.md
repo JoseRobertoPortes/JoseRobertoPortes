@@ -16,7 +16,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/JoseRobertoPortes">
     <img height="280em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=16A34A&icon_color=16A34A&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
