@@ -11,22 +11,18 @@
 ## 📊 Estatísticas & Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseRobertoPortes&bg_color=0d1117&color=16A34A&line=16A34A&point=16A34A&area_color=0d1117&area=true&hide_border=true&custom_title=Gráfico%20de%20Atividades" alt="Contribution Graph" style="animation: slideInUp 1s ease-in-out;" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseRobertoPortes&bg_color=0d1117&color=16A34A&line=16A34A&point=16A34A&area_color=0d1117&area=true&hide_border=true&custom_title=Gráfico%20de%20Atividades" alt="Contribution Graph" style="animation: slideInUp 1s ease-in-out; margin-bottom: 20px;" />
 </div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoseRobertoPortes&theme=transparent&hide_border=true&background=0d1117&currStreakNum=16A34A&sideNums=16A34A&currStreakLabel=16A34A&fire=16A34A&ring=16A34A" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/JoseRobertoPortes">
+    <img height="280em" src="https://github-readme-stats-wpace.vercel.app/api?username=JoseRobertoPortes&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/JoseRobertoPortes">
+    <img height="280em" src="https://streak-stats.demolab.com?user=JoseRobertoPortes&theme=dark&hide_border=true&background=0d1117&ring=16A34A&fire=16A34A&currStreakNum=16A34A&sideNums=16A34A&currStreakLabel=16A34A&dates=16A34A" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
