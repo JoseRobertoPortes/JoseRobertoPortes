@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,mysql,git,github,docker,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,postgres,mysql,git,github,docker,vscode&theme=dark" />
 </p>
 
 <br>
