@@ -2,11 +2,11 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # roda 1x por dia
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
-  workflow_dispatch:       # permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
