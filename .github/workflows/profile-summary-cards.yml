@@ -2,7 +2,7 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
@@ -15,8 +15,7 @@ jobs:
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          user: JoseRobertoPortes
-          theme: github_dark
-          template: classic
+          USERNAME: JoseRobertoPortes
+          THEME: github_dark
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
